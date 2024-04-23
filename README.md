@@ -13,6 +13,6 @@
 Precision, Recall, F1 score and accuracy.
 
 - Using Artificial Neural Networks: 
-- Develop a model using artificial neural network which can predict severity of airplane accident.
+- Developing a model using artificial neural network which can predict severity of airplane accident.
 
 - Applying hyper parameter tuning to improve performance.
